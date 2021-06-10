@@ -1,0 +1,62 @@
+{
+  "surveys": {
+    "surveyList": [
+      {
+        "userId": 5,
+        "userEmail": "sajith.k.malayath@accenture.com",
+        "marketUnit": "Interactive",
+        "project": "H&M",
+        "surveyId": 1,
+        "surveyTitle": "Innovation Questionaire",
+        "version": 1,
+        "status": "SUBMITTED",
+        "score": "32/99",
+        "rating": "2.88/8.9",
+        "level": "NOVICE",
+        "submittedOn": "30-04-2021"
+      },
+      {
+        "userId": 5,
+        "userEmail": "sajith.k.malayath@accenture.com",
+        "marketUnit": "Interactive",
+        "project": "H&M",
+        "surveyId": 1,
+        "surveyTitle": "Innovation Questionaire",
+        "version": 1,
+        "status": "SUBMITTED",
+        "score": "32/99",
+        "rating": "2.88/8.9",
+        "level": "NOVICE",
+        "submittedOn": "30-04-2021"
+      },
+      {
+        "userId": 1,
+        "userEmail": "rohit.kumar.bansal.h@accenture.com",
+        "marketUnit": "ASGR",
+        "project": "BANK OF IRELAND",
+        "surveyId": 1,
+        "surveyTitle": "Innovation Questionaire",
+        "version": 1,
+        "status": "IN PROGRESS",
+        "score": null,
+        "rating": null,
+        "level": null,
+        "submittedOn": null
+      },
+      {
+        "userId": 2,
+        "userEmail": "samir.pandey@accenture.com",
+        "marketUnit": "GALLIA",
+        "project": "BP",
+        "surveyId": 1,
+        "surveyTitle": "Innovation Questionaire",
+        "version": 1,
+        "status": "IN PROGRESS",
+        "score": null,
+        "rating": null,
+        "level": null,
+        "submittedOn": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "surveys": {
+    "surveyList": [
+      {
+        "userId": 1,
+        "userEmail": "testUser1@test.com",
+        "marketUnit": "Test Market Unit",
+        "project": "TestProject",
+        "surveyId": 1,
+        "surveyTitle": "Innovation Questionaire",
+        "version": 1,
+        "status": "SUBMITTED",
+        "score": "37/99",
+        "rating": "3.33/8.9",
+        "level": "BEGINNER",
+        "submittedOn": "22-04-2021"
+      },
+      {
+        "userId": 1,
+        "userEmail": "testUser1@test.com",
+        "marketUnit": "Test Market Unit",
+        "project": "TestProject",
+        "surveyId": 1,
+        "surveyTitle": "Innovation Questionaire",
+        "version": 1,
+        "status": "IN PROGRESS",
+        "score": null,
+        "rating": null,
+        "level": null,
+        "submittedOn": null
+      },
+      {
+        "userId": 1,
+        "userEmail": "testUser1@test.com",
+        "marketUnit": "Test Market Unit",
+        "project": "Test Project 2",
+        "surveyId": 1,
+        "surveyTitle": "Innovation Questionaire",
+        "version": 1,
+        "status": "IN PROGRESS",
+        "score": null,
+        "rating": null,
+        "level": null,
+        "submittedOn": null
+      }
+    ]
+  }
+}

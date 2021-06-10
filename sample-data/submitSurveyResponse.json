@@ -1,0 +1,49 @@
+{
+  "surveyResultResponse": {
+    "surveyScore": "32/99",
+    "surveyRating": "2.88/8.9",
+    "level": "NOVICE",
+    "innoParamResults": [
+      {
+        "innoParamTitle": "Understand Client Challenges and Objectives",
+        "score": "3/15",
+        "level": "NOVICE"
+      },
+      {
+        "innoParamTitle": "Innovation Capabilities within engagement",
+        "score": "7/15",
+        "level": "PRACTITIONER"
+      },
+      {
+        "innoParamTitle": "Client Co Innovation Framework",
+        "score": "2/12",
+        "level": "NOVICE"
+      },
+      {
+        "innoParamTitle": "Degree of Innovation",
+        "score": "5/9",
+        "level": "PRACTITIONER"
+      },
+      {
+        "innoParamTitle": "Client Value",
+        "score": "6/15",
+        "level": "BEGINNER"
+      },
+      {
+        "innoParamTitle": "Client Testimonials (Audio & Video)",
+        "score": "1/12",
+        "level": "NOVICE"
+      },
+      {
+        "innoParamTitle": "Leverage Accenture Innovation Architecture",
+        "score": "5/12",
+        "level": "BEGINNER"
+      },
+      {
+        "innoParamTitle": "Contribution to Accenture Innovation Architecture",
+        "score": "3/9",
+        "level": "BEGINNER"
+      }
+    ]
+  }
+}
